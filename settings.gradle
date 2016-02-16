@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 include ':app'
 
+=======
+include ':app'
+include ':library'
+
+>>>>>>> 7f85864663433bfa1be09330f581f1af0e4ab9d2

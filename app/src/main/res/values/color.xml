@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <color name="white">#fff</color>
     <color name="black">#000</color>
+=======
+    <color name="text_color">#545454</color>
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+    <color name="ColorPrimary">#000</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+    <color name="custom_divider_color">#FF79FF00</color>
+    <color name="colorPrimary">#000</color>
+    <color name="colorAccent">#607D8B</color>
+    <color name="cardBackground">#424242</color>
+
+>>>>>>> 7f85864663433bfa1be09330f581f1af0e4ab9d2
 </resources>
